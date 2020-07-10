@@ -10,5 +10,5 @@ Além disso, são exibidos mais detalhes do repositórios, como número de estre
 
 ## Tecnologias usadaas 
 
-Typescript 
-React 
+* Typescript 
+* React 
